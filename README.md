@@ -2,7 +2,7 @@
 
 <br />
 
-🎓 Graduando em Engenharia de Software pela Universidade Federal de Mato Grosso do Sul. Apaixonado por desenvolver soluções inovadoras na Web e Mobile. Atualmente, atuo como desenvolvedor na MegaJr e presto suporte para sistemas Web na Engrene.
+🎓 Engenheiro de Software pela Universidade Federal de Mato Grosso do Sul. Apaixonado por desenvolver soluções inovadoras na Web e Mobile. Atualmente, atuo como desenvolvedor na MegaJr e presto suporte para sistemas Web na Engrene.
 
 **Experiências**
 
